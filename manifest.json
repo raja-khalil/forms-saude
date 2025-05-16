@@ -1,0 +1,21 @@
+{
+  "name": "Censo da Saúde RO",
+  "short_name": "Censo Saúde",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007BFF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/No_image_available.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/No_image_available.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
